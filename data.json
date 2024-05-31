@@ -1,38 +1,51 @@
 {
-    "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+    "personalDetails" : {
+        "title" : "Personal Details",
+        "fullName" : "Khanyisani Majozi",
+        "Gender" : "Male"
     },
-    "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
+
+    "contactDetails" : {
+        "title" : "Contact Details",
+        "email" : "khanyisanimajozi98@gmail.com",
+        "phone" : "065 517 2670",
+        "linkedIn" : "https://www.linkedin.com/in/khanyisani-majozi-869286256/"
     },
-    "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        },
-        {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
+
+    "skills" : {
+        "title" : "Skills",
+        "skill1" : "Emotional intelligence",
+        "skill2" : "Communication Skills",
+        "skill3" : "Thinking Creatively"
     },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        }
-    ]
+
+    "TechSkills" : {
+        "title" : "Tech Skills",
+        "techSkill1" : "Strong C# .Net(MVC)",
+        "techSkill2" : "JavaScript",
+        "techSkill3" : "React Native",
+        "techSkill4" : "SQL"
+    },
+
+    "Qualification" : {
+        "title" : "Qualifications",
+        "qua1" : "Diplom in Business Information Technology",
+        "qua2" : "Adv Diplom in Business Information Technology"
+    },
+
+    "Profile" : {
+        "title" : "Personal Profile",
+        "text" : "<p>Briefly, in my academic experiences, I have gained emotional intelligence \n and other skills as we do group work as my academic script confirms with more than seven distinctions.\nI have gained a position as a full-stack developer at the University of Johannesburg internship  I use a variety of technologies and tools, to name a few, MVC, TFS, AzureDevOps, JS, etc.</p>"
+    },
+
+    "Achievements" : {
+        "header" : "Achievements",
+        "title": "<p>Hired as an Educator Assistant:</p>",
+        "param": "<p>I was adding value to students for grades 11 & 10 in case they did not understand a teacher I would intervene to help them understand more and\nwe were instructed to come with the teacher at times we were instructed to facilitate the class alone.</p>",
+        "ref-topic" : "<p>Reference<p/>",
+        "ref": "<p>✓ HOD: Ms Malembe 070 000 0000</p>",
+        "jobhistory": "<p>✓ Intern: Full-Stack MVC web developer.</p>",
+        "ref1": "<p>✓ Senior Line Manager UJ: Ms T Zide: 080 000 0000</p>",
+        "ref2": "<p>✓ Team Lead (Senior): Mr T Msitshana: 081 000 0000</p>"
+    }
 }
